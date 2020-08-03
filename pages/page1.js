@@ -1,7 +1,7 @@
-import Layout from "../componet/Layout";
+import Layout from "../component/Layout";
 import React from "react";
 import Typography from "@material-ui/core/Typography";
-import MyCounter from "../componet/MyCounter";
+import MyCounter from "../component/MyCounter";
 
 const Page1 = () => {
 

@@ -1,4 +1,4 @@
-import Layout from "../componet/Layout";
+import Layout from "../component/Layout";
 import React, {useEffect} from "react";
 import {useDispatch} from "react-redux";
 import {increment} from "../store/action/CounterAction";
